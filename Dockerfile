@@ -19,6 +19,7 @@ RUN \
   echo "source /etc/environment" \
     >> /etc/bash.bashrc && \
   curl -s https://get.sdkman.io | bash && \
+  source "/root/.sdkman/bin/sdkman-init.sh" && \
   sdk install kotlin && \
   echo "**** Cleanup ****" && \
   rm -rf \
