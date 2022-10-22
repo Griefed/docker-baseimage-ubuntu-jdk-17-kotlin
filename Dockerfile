@@ -25,7 +25,7 @@ RUN \
     >> /etc/bash.bashrc && \
   curl -s "https://get.sdkman.io" | bash && \
   chmod a+x "/root/.sdkman/bin/sdkman-init.sh" && \
-  source "/root/.sdkman/bin/sdkman-init.sh" && \
+  /root/.sdkman/bin/sdkman-init.sh && \
   yes y | sdk install kotlin && \
   echo "**** Cleanup ****" && \
   rm -rf \
