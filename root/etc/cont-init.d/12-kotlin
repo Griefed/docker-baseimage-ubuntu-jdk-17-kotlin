@@ -1,0 +1,8 @@
+#!/bin/bash
+
+echo "[cont-init.d] 11-kotlin: **** Installing Kotlin ****"
+
+curl -s "https://get.sdkman.io" | bash && \
+chmod a+x "~/.sdkman/bin/sdkman-init.sh" && \
+source "~/.sdkman/bin/sdkman-init.sh" && \
+sdk install kotlin

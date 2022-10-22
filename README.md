@@ -17,16 +17,16 @@ For questions, you can always join my [Discord server](https://discord.griefed.d
 
 ---
 
-[![Docker Pulls](https://img.shields.io/docker/pulls/griefed/baseimage-ubuntu-jdk-17?style=for-the-badge&logo=Docker&labelColor=325358&color=c0ffee&logoColor=white)](https://hub.docker.com/r/griefed/baseimage-ubuntu-jdk-8)
-[![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/griefed/baseimage-ubuntu-jdk-17?label=Image%20size&sort=date&style=for-the-badge&logo=Docker&labelColor=325358&color=c0ffee&logoColor=white)](https://hub.docker.com/r/griefed/baseimage-ubuntu-jdk-8)
+[![Docker Pulls](https://img.shields.io/docker/pulls/griefed/baseimage-ubuntu-jdk17-kotlin?style=for-the-badge&logo=Docker&labelColor=325358&color=c0ffee&logoColor=white)](https://hub.docker.com/r/griefed/baseimage-ubuntu-jdk-8)
+[![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/griefed/baseimage-ubuntu-jdk17-kotlin?label=Image%20size&sort=date&style=for-the-badge&logo=Docker&labelColor=325358&color=c0ffee&logoColor=white)](https://hub.docker.com/r/griefed/baseimage-ubuntu-jdk-8)
 
-[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/Griefed/docker-baseimage-ubuntu-jdk-17?include_prereleases&label=Latest%20Release&logo=Github&style=for-the-badge&color=c0ffee&labelColor=325358)](https://github.com/Griefed/docker-baseimage-ubuntu-jdk-8/releases/latest)
-[![GitHub](https://img.shields.io/github/license/Griefed/docker-baseimage-ubuntu-jdk-17?logo=GitHub&style=for-the-badge&color=c0ffee&labelColor=325358)](https://github.com/Griefed/docker-baseimage-ubuntu-jdk-8/blob/main/LICENSE)
+[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/Griefed/docker-baseimage-ubuntu-jdk-17-kotlin?include_prereleases&label=Latest%20Release&logo=Github&style=for-the-badge&color=c0ffee&labelColor=325358)](https://github.com/Griefed/docker-baseimage-ubuntu-jdk-8/releases/latest)
+[![GitHub](https://img.shields.io/github/license/Griefed/docker-baseimage-ubuntu-jdk-17-kotlin?logo=GitHub&style=for-the-badge&color=c0ffee&labelColor=325358)](https://github.com/Griefed/docker-baseimage-ubuntu-jdk-8/blob/main/LICENSE)
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/Griefed/docker-baseimage-ubuntu-jdk-17?label=GitHub%20Stars&style=for-the-badge&logo=Github&labelColor=325358&color=c0ffee)](https://github.com/Griefed/docker-baseimage-ubuntu-jdk-8)
-[![GitHub forks](https://img.shields.io/github/forks/Griefed/docker-baseimage-ubuntu-jdk-17?label=GitHub%20Forks&style=for-the-badge&logo=Github&labelColor=325358&color=c0ffee)](https://github.com/Griefed/docker-baseimage-ubuntu-jdk-8)
-[![GitHub contributors](https://img.shields.io/github/contributors/Griefed/docker-baseimage-ubuntu-jdk-17?color=c0ffee&label=Contributors&logo=GitHub&logoColor=white&style=for-the-badge&labelColor=325358)](https://github.com/Griefed/docker-baseimage-ubuntu-jdk-8/graphs/contributors)
-[![GitHub all releases](https://img.shields.io/github/downloads/Griefed/docker-baseimage-ubuntu-jdk-17/total?color=c0ffee&logo=GitHub&logoColor=white&labelColor=325358&style=for-the-badge)](https://github.com/Griefed/docker-baseimage-ubuntu-jdk-8/releases)
+[![GitHub Repo stars](https://img.shields.io/github/stars/Griefed/docker-baseimage-ubuntu-jdk-17-kotlin?label=GitHub%20Stars&style=for-the-badge&logo=Github&labelColor=325358&color=c0ffee)](https://github.com/Griefed/docker-baseimage-ubuntu-jdk-8)
+[![GitHub forks](https://img.shields.io/github/forks/Griefed/docker-baseimage-ubuntu-jdk-17-kotlin?label=GitHub%20Forks&style=for-the-badge&logo=Github&labelColor=325358&color=c0ffee)](https://github.com/Griefed/docker-baseimage-ubuntu-jdk-8)
+[![GitHub contributors](https://img.shields.io/github/contributors/Griefed/docker-baseimage-ubuntu-jdk-17-kotlin?color=c0ffee&label=Contributors&logo=GitHub&logoColor=white&style=for-the-badge&labelColor=325358)](https://github.com/Griefed/docker-baseimage-ubuntu-jdk-8/graphs/contributors)
+[![GitHub all releases](https://img.shields.io/github/downloads/Griefed/docker-baseimage-ubuntu-jdk-17-kotlin/total?color=c0ffee&logo=GitHub&logoColor=white&labelColor=325358&style=for-the-badge)](https://github.com/Griefed/docker-baseimage-ubuntu-jdk-8/releases)
 
 ---
 
