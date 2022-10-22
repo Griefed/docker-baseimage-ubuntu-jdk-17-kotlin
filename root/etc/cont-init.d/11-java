@@ -3,7 +3,7 @@
 # Find Java
 
 echo "[cont-init.d] 11-java-home: **** Setting JAVA_HOME variable ****"
-FIND_JAVA=$(find / -name 'java' | grep -E '/usr/lib/jvm/java-8-openjdk-\w*/bin/java' | sed 's!/bin/java!!' )
+FIND_JAVA=$(find / -name 'java' | grep -E '/usr/lib/jvm/java-17-openjdk-\w*/bin/java' | sed 's!/bin/java!!' )
 JAVA_HOME="$FIND_JAVA"
 
 # Write location to different files so it should be available everywhere. Update PATH as well.

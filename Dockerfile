@@ -4,7 +4,7 @@ ARG BUILD_DATE="Jun 28, 2021 7:44pm GMT+0200"
 ARG VERSION="repocreation"
 LABEL build_version="Git.Griefed.de version:- ${VERSION} Build-date:- ${BUILD_DATE}"
 LABEL maintainer="Griefed <griefed@griefed.de>"
-LABEL description="This image adds OpenJDK 8 JDK to griefed/baseimage-ubuntu."
+LABEL description="This image adds OpenJDK 17 JDK to griefed/baseimage-ubuntu."
 
 RUN \
   echo "**** Update and install ****" && \
@@ -13,11 +13,13 @@ RUN \
   apt-get install -y --no-install-recommends \
     ca-certificates \
     java-common \
-    openjdk-8-jdk && \
+    openjdk-17-jdk && \
   echo "# Setup JAVA_HOME variable" \
     >> /etc/bash.bashrc && \
   echo "source /etc/environment" \
     >> /etc/bash.bashrc && \
+  curl -s https://get.sdkman.io | bash && \
+  sdk install kotlin && \
   echo "**** Cleanup ****" && \
   rm -rf \
     /tmp/* \
