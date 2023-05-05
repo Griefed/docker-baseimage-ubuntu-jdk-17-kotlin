@@ -1,3 +1,17 @@
+## [1.0.5](https://git.griefed.de/prosper/docker-baseimage-ubuntu-jdk-17-kotlin/compare/1.0.4...1.0.5) (2023-05-05)
+
+
+### 🦊 CI/CD
+
+* Update installed packages in Docker container. ([6e64dd7](https://git.griefed.de/prosper/docker-baseimage-ubuntu-jdk-17-kotlin/commit/6e64dd725435eb5b98b88ecd76e5297d3eb696f9))
+
+
+### Other
+
+* **deps:** update ghcr.io/griefed/gitlab-ci-cd docker tag to v2.2.10 ([8361dcc](https://git.griefed.de/prosper/docker-baseimage-ubuntu-jdk-17-kotlin/commit/8361dcce4950600e893c345fb133f3a37883984e))
+* **deps:** update griefed/baseimage-ubuntu docker tag to v2.1.17 ([e89e10e](https://git.griefed.de/prosper/docker-baseimage-ubuntu-jdk-17-kotlin/commit/e89e10e00288783e7a74c27eb1ed60d38409b710))
+* **deps:** update griefed/baseimage-ubuntu docker tag to v2.1.18 ([1bf921d](https://git.griefed.de/prosper/docker-baseimage-ubuntu-jdk-17-kotlin/commit/1bf921d5aeac4cc4ae1901d995c5bf019a1bf689))
+
 ## [1.0.4](https://git.griefed.de/prosper/docker-baseimage-ubuntu-jdk-17-kotlin/compare/1.0.3...1.0.4) (2023-04-04)
 
 
