@@ -30,6 +30,6 @@ For questions, you can always join my [Discord server](https://discord.griefed.d
 
 ---
 
-**A custom baseimage, based on [docker-baseimage-ubuntu](https://git.griefed.de/prosper/docker-baseimage-ubuntu), built with the [Ubuntu cloud image](https://partner-images.canonical.com/core/focal/) and [S6-overlay](https://github.com/just-containers/s6-overlay) with [OpenJDK-8-JDK](https://openjdk.java.net/projects/jdk8/) installed**
+**A custom baseimage, based on [docker-baseimage-ubuntu](https://git.griefed.de/prosper/docker-baseimage-ubuntu), built with the [Ubuntu cloud image](https://partner-images.canonical.com/core/focal/) and [S6-overlay](https://github.com/just-containers/s6-overlay) with [OpenJDK-17-JDK](https://openjdk.org/projects/jdk/17/) installed**
 
 This image also provides the [Kotlin](https://kotlinlang.org/)-compiler, so you can not only build/run Java applications, but also compile Kotlin.
