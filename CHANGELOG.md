@@ -1,3 +1,10 @@
+## [1.0.20](https://git.griefed.de/prosper/docker-baseimage-ubuntu-jdk-17-kotlin/compare/1.0.19...1.0.20) (9/3/2024)
+
+
+### 🦊 CI/CD
+
+* Update installed packages in Docker container. ([10013c9](https://git.griefed.de/prosper/docker-baseimage-ubuntu-jdk-17-kotlin/commit/10013c92842f53dc530223cca1d500fd65d0d669))
+
 ## [1.0.19](https://git.griefed.de/prosper/docker-baseimage-ubuntu-jdk-17-kotlin/compare/1.0.18...1.0.19) (8/3/2024)
 
 
